@@ -1,0 +1,3 @@
+Nombre = Deivid, Grupo = 23, Nota = 100
+Nombre = Gabriel, Grupo = 98, Nota = 81
+Nombre = Andrey, Grupo = 12, Nota = 45
